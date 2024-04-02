@@ -16,7 +16,7 @@ public class Matriz {
         System.out.println("A matriz fornecdia por...");
         for(int i = 0; i<linha; i++){
             for(int j = 0; j<coluna; j++) {
-                System.out.println(matriz[i][j] + " ");
+                System.out.print(matriz[i][j] + " ");
 
             }
              System.out.println();
