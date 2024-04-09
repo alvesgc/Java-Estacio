@@ -10,6 +10,9 @@ public class Funcionario {
     public void setSaque(float saque){
         saque-= saque;
     }
+    public void getSaldo(float saldo) {
+        saldo = saldo + saldo; float saque;
+    }
     public void ola(String nome) { // Método vem de Função
         System.out.println("Funcionario criado");
     }
