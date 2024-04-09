@@ -1,3 +1,5 @@
+package basic_programming;
+
 public class OlaNepsAcademy {
     public static void main(String[] args) {
         int a = 3;

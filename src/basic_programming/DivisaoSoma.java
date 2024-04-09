@@ -1,3 +1,5 @@
+package basic_programming;
+
 import java.util.Scanner;
 public class DivisaoSoma {
     public static void main(String[] args) {

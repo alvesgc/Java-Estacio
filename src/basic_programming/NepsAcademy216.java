@@ -1,3 +1,5 @@
+package basic_programming;
+
 public class NepsAcademy216 {
     public static void main(String[] args) {
         int x = 20;

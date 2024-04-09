@@ -1,3 +1,5 @@
+package basic_programming;
+
 import java.util.Scanner;
 public class Vetor_input {
     public static void main(String[] args){
